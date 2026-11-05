@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "pet-sitting-dog-walking-manager-free",
+  "group": "business",
+  "refreshMinutes": 30
+}
